@@ -8,7 +8,7 @@ A personal project exploring how time-based authentication codes are generated, 
 
 ## Technologies
 
-Rust
+Rust: HMAC and SHA
 
 ## Motivation
 
